@@ -5,12 +5,11 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 
 
 #### WHAT KEEPS ME GOING
-=======
 I am a frontend Web developer, a JavaScript enthusiast, and a user interface & experience designer at ❤️. I'm passionate about building immersive & satisfying web experiences one code at a time and gradually doing my best to make the web a better and safer place to be one debug at a time.
 --------------------------
 
 <br/>
->>>>>>> 5da71c355bd063aa7493c1d17bbfe5d7fb0e02be
+
 
 #### 🔰 WHAT KEEPS ME GOING
 <table>
@@ -60,11 +59,11 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 
 ![Banner](assets/html.png)
 <p>
-<img src="assets/html.png" width="20px">
-<img src="assets/html.png" width="20px">
-<img src="assets/html.png" width="20px">
-<img src="assets/html.png" width="20px">
-<img src="assets/html.png" width="20px">
+<img src="assets/html.png" width="20%">
+<img src="assets/html.png" width="20%">
+<img src="assets/html.png" width="20%">
+<img src="assets/html.png" width="20%">
+<img src="assets/html.png" width="20%">
 </p>
 
 <br/>
