@@ -6,7 +6,7 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 <br/>
 
 
-#### 🔰 WHAT KEEPS ME GOING
+### 🔰 WHAT KEEPS ME GOING
 <table>
 <tr>
 <td width="50%">
@@ -43,7 +43,7 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 </table>
 <br/>
 
-#### 🔰 PROFICIENT IN
+### 🔰 PROFICIENT IN
 - Object Oriented Programming
 - Application Architecture Design
 - Design Pattern
@@ -72,23 +72,18 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 
 <br/>
 
+<span width="100%">
+
 <table>
   <tr>
-    <td width="50%">🔰 WHAT I DO DAILY</td>
-    <td width="50%">🔰 WHAT I'M CURRENT LEARNING</td>
+    <td width="50%"> 🔰 WHAT I DO DAILY </td>
+    <td width="50%"> 🔰 CURRENTLY LEARNING </td>
   </tr>
   <tr>
-    <td width="50%">
-       Fixing my brain & Busy trying to keep up with all the .js-esss...
-      😤 damn, too many js-ess
-    </td>
-    <td width="50%">
-    REST Api Development
-    </td>
+    <td width="50%"> Building my side project </td>
+    <td width="50%"> REST Api Development </td>
   </tr>
 </table>
-
-<br/>
 
 --------------------------
 
@@ -100,12 +95,8 @@ PRONOUNS
 Him, he, sometimes “It”...depends on the context
 
 <br/>
-<span style="font-weight: bold; font-size: 16px">
-I'M CURRENTLY WORKING ON:
-</span> 
-<br/>
-Building my side project 
-
+<!--        Fixing my brain & Busy trying to keep up with all the .js-esss...
+      😤 damn, too many js-ess -->
 --------------------------
 
 Find out more about me & feel free to connect with me here:
