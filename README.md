@@ -8,34 +8,34 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 #### 🔰 WHAT KEEPS ME GOING
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 🎯 Finding better ways to boost my productivity
 </td>
-<td width="33%">
+<td width="50%">
 🔍 Learning about the brain and discovering better ways to learn
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 💻 Learning new technologies
 </td>
-<td width="33%">
+<td width="50%">
 💡 Brainstorming product ideas
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 😃 Sharing knowledge
 </td>
-<td width="33%">
+<td width="50%">
 ♻️ Reducing my carbon footprint
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 ☕ Drinking a lot of coffee
 </td>
-<td width="33%">
+<td width="50%">
 😴 Waking up in the morning
 </td>
 </tr>
@@ -52,22 +52,22 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 --------------------------
 
 <br/>
-<span style="font-weight: bold;">
-WHAT I DO DAILY:
-</span> 
 
-<br/>
-
-Fixing my brain & busy Trying to keep up with all the .js-esss...Damn, too many jsess
-
-<br/>
-<span style="font-weight: bold;">
-WHAT IM CURRENT LEARNING:
-</span> 
-
-<br/>
-
-- REST Api Development
+<table>
+  <tr>
+    <td width="50%">🔰 WHAT I DO DAILY</td>
+    <td width="50%">🔰 WHAT I'M CURRENT LEARNING</td>
+  </tr>
+  <tr>
+    <td width="50%">
+       Fixing my brain & Busy trying to keep up with all the .js-esss...
+      😤 damn, too many js-ess
+    </td>
+    <td width="50%">
+    REST Api Development
+    </td>
+  </tr>
+</table>
 
 <br/>
 
