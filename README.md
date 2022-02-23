@@ -3,11 +3,6 @@
 I am a frontend Web developer, a JavaScript enthusiast, and a user interface & experience designer at heart. I'm passionate about building immersive & satisfying web experiences one code at a time and gradually doing my best to make the web a better and safer place to be one debug at a time.
 --------------------------
 
-
-#### WHAT KEEPS ME GOING
-I am a frontend Web developer, a JavaScript enthusiast, and a user interface & experience designer at ❤️. I'm passionate about building immersive & satisfying web experiences one code at a time and gradually doing my best to make the web a better and safer place to be one debug at a time.
---------------------------
-
 <br/>
 
 
@@ -56,15 +51,11 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 <br/>
 
 --------------------------
-
-![Banner](assets/html.png)
-<p>
-<img src="assets/html.png" width="20%">
-<img src="assets/html.png" width="20%">
-<img src="assets/html.png" width="20%">
-<img src="assets/html.png" width="20%">
-<img src="assets/html.png" width="20%">
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![ReactJs](https://img.shields.io/badge/ReactJs-000000?style=for-the-badge&logo=React&logoColor=00D8FF)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D8FF)
 
 <br/>
 
