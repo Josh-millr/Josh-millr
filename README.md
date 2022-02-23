@@ -44,7 +44,7 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 </table>
 <br/>
 
-## ✅ Proficient In
+## ✔️ Proficient In
 - Object Oriented Programming
 - Application Architecture Design
 - Design Pattern
@@ -79,35 +79,33 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 
 <br/>
 
-<span width="100%">
-
-<table width="100%">
+<table>
   <tr>
-    <td width="50%"> 🔰 WHAT I DO DAILY </td>
-    <td width="50%"> 🔰 CURRENTLY LEARNING </td>
-  </tr>
-  <tr>
-    <td width="50%"> Building my side project </td>
-    <td width="50%"> REST Api Development </td>
+    <td>⌛ Currently Doing: Building My Side Project</td>
   </tr>
 </table>
-  
+<table>
+  <tr>
+    <td> 📚 Currently Learning: REST Api Development </td>
+  </tr>
+</table>
+
 <br/>
   
 
   
 Find out more about me & feel free to connect with me here:
  <p align="left">
-	<a href="">
+	<a href="https://www.linkedin.com/in/joshmillr/">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="">
+	<a href="https://twitter.com/josh4tech">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-        <a href="">
+        <a href="https://github.com/Josh-millr/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-        <a href="mailto:">
+        <a href="mailto:joshuae.miller100@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
