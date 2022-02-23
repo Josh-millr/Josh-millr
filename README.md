@@ -113,7 +113,7 @@ Find out more about me & feel free to connect with me here:
 <br/>
   
 ## ❓ Fun Fact
-- I Literally imagine and visualise each component of a program as small minions 👷‍ ♂️carrying out their individual task and resposibility in a 🏭factory, i’ve literally been able to discover a lot of bugs using this trick.. it helps me a lot especially in OOP based programs, you should try it.
+- I Literally imagine and visualise each component of a program as small minions 👷‍ carrying out their individual task and resposibility in a 🏭factory, i’ve literally been able to discover a lot of bugs using this trick.. it helps me a lot especially in OOP based programs, you should try it.
 - I don’t work under pressure, so 🥺 please don’t pressure me
   
   
