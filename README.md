@@ -1,15 +1,11 @@
 ![Banner](/assets/Github%20banner.gif)
 
-I’m a fullstack Web developer, a Javascript enthusiast and a user interface & experience designer at heart, passionate about building immersive & satisfying web experience one code at a time and gradually doing my best to make the web a better and a safer place to be one debug at a time.
+I am a frontend Web developer, a JavaScript enthusiast, and a user interface & experience designer at ❤️. I'm passionate about building immersive & satisfying web experiences one code at a time and gradually doing my best to make the web a better and safer place to be one debug at a time.
 --------------------------
-
-
-<span style="font-weight: bold;">
-WHAT KEEPS ME GOING
-</span>
 
 <br/>
 
+#### 🔰 WHAT KEEPS ME GOING
 <table>
 <tr>
 <td width="33%">
@@ -46,17 +42,10 @@ WHAT KEEPS ME GOING
 </table>
 <br/>
 
---------------------------
-<br/>
-<span style="font-weight: bold;">
-WHAT KEEPS ME GOING
-</span>
-
-<br/>
-
-- Object Oriented programming
-- Software architecture design
-- Design pattern
+#### 🔰 PROFICIENT IN
+- Object Oriented Programming
+- Application Architecture Design
+- Design Pattern
 
 <br/>
 
