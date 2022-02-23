@@ -1,4 +1,4 @@
-![Banner](/assets/Hi%20there,%20👋%20it’s.gif)
+![Banner](/assets/Github%20banner.gif)
 
 I’m a fullstack Web developer, a Javascript enthusiast and a user interface & experience designer at heart, passionate about building immersive & satisfying web experience one code at a time and gradually doing my best to make the web a better and a safer place to be one debug at a time.
 --------------------------
