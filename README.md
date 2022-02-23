@@ -5,76 +5,85 @@ I am a frontend Web developer, a JavaScript enthusiast, and a user interface & e
 
 
 #### WHAT KEEPS ME GOING
+=======
+I am a frontend Web developer, a JavaScript enthusiast, and a user interface & experience designer at ❤️. I'm passionate about building immersive & satisfying web experiences one code at a time and gradually doing my best to make the web a better and safer place to be one debug at a time.
+--------------------------
 
+<br/>
+>>>>>>> 5da71c355bd063aa7493c1d17bbfe5d7fb0e02be
+
+#### 🔰 WHAT KEEPS ME GOING
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 🎯 Finding better ways to boost my productivity
 </td>
-<td width="33%">
+<td width="50%">
 🔍 Learning about the brain and discovering better ways to learn
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 💻 Learning new technologies
 </td>
-<td width="33%">
+<td width="50%">
 💡 Brainstorming product ideas
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 😃 Sharing knowledge
 </td>
-<td width="33%">
+<td width="50%">
 ♻️ Reducing my carbon footprint
 </td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
 ☕ Drinking a lot of coffee
 </td>
-<td width="33%">
+<td width="50%">
 😴 Waking up in the morning
 </td>
 </tr>
 </table>
 <br/>
 
---------------------------
-<br/>
-<span style="font-weight: bold;">
-WHAT KEEPS ME GOING
-</span>
-
-<br/>
-
-- Object Oriented programming
-- Software architecture design
-- Design pattern
+#### 🔰 PROFICIENT IN
+- Object Oriented Programming
+- Application Architecture Design
+- Design Pattern
 
 <br/>
 
 --------------------------
 
-<br/>
-<span style="font-weight: bold;">
-WHAT I DO DAILY:
-</span> 
+![Banner](assets/html.png)
+<p>
+<img src="assets/html.png" width="20px">
+<img src="assets/html.png" width="20px">
+<img src="assets/html.png" width="20px">
+<img src="assets/html.png" width="20px">
+<img src="assets/html.png" width="20px">
+</p>
 
 <br/>
 
-Fixing my brain & busy Trying to keep up with all the .js-esss...Damn, too many jsess
-
-<br/>
-<span style="font-weight: bold;">
-WHAT IM CURRENT LEARNING:
-</span> 
-
-<br/>
-
-- REST Api Development
+<table>
+  <tr>
+    <td width="50%">🔰 WHAT I DO DAILY</td>
+    <td width="50%">🔰 WHAT I'M CURRENT LEARNING</td>
+  </tr>
+  <tr>
+    <td width="50%">
+       Fixing my brain & Busy trying to keep up with all the .js-esss...
+      😤 damn, too many js-ess
+    </td>
+    <td width="50%">
+    REST Api Development
+    </td>
+  </tr>
+</table>
 
 <br/>
 
